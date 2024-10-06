@@ -19,6 +19,7 @@
       ipywidgets
       pyarrow
       altair==5.4
+      phik
 
       matplotlib
       seaborn
