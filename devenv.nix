@@ -29,6 +29,7 @@
       catboost
       xgboost
       lightgbm
+      lightautoml
       optuna
 
       clearml
